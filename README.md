@@ -1,3 +1,3 @@
-# What-the-Heck
+# Hi I'm Christian Jomari Gallo and This is My Blog 
 # Hi This Is My Code From My Blog
-# Please Don: Bash Me Because I AM A Begginer ;)
+# Please Don't Bash Me Because I Amk Only a Beginner ;)
